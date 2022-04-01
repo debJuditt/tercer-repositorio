@@ -9,8 +9,7 @@ function Home() {
     const variableB = 3;
     const variableC = 2;
 
-    return variableA*3 + variableC*variableB
-    
+    return variableA*3 + variableC*variableB   
   }
   return (
     <><div>Home</div><button onclick={addItem} /></>
