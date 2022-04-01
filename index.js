@@ -9,7 +9,7 @@ function Home() {
     const variableB = 3;
     const variableC = 2;
 
-    return variableA + variableC*variableB
+    return variableA*3 + variableC*variableB
     
   }
   return (
